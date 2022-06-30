@@ -73,3 +73,7 @@ p{
     border-image-slice: 2;
     border-radius: 20px;
 }
+footer{
+    text-align: center;
+    font-size: 14px;
+}
